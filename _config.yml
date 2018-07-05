@@ -41,10 +41,10 @@ post:
     index: true
 
 # Disqus comments
-# disqus:
-  # shortname: your_disqus_shortname
+disqus:
+   shortname: FrontEndSomi3617
   # Set to true to auto load disqus, otherwise will show a button
-  # autoload: false
+   autoload: true
 
 # Assets path
 assets:
